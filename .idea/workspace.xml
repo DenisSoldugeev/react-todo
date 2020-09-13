@@ -1,9 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="927053ba-04be-434a-a754-700eda85fae0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modal/Modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modal/modal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todo/AddTodo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todo/TodoItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todo/TodoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hJfxayGNTQVOPx6KobtARCK4VU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="927053ba-04be-434a-a754-700eda85fae0" name="Default Changelist" comment="" />
+      <created>1599734362651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599734362651</updated>
+      <workItem from="1599734364041" duration="11564000" />
+      <workItem from="1599759355983" duration="2324000" />
+      <workItem from="1599989947231" duration="3590000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="768" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1599752691070">
+      <screen x="51" y="27" width="1869" height="1053" />
+    </state>
+    <state x="768" y="310" width="424" height="484" key="FileChooserDialogImpl/51.27.1869.1053@51.27.1869.1053" timestamp="1599752691070" />
+    <state x="649" y="253" key="run.anything.popup" timestamp="1599761008297">
+      <screen x="51" y="27" width="1869" height="1053" />
+    </state>
+    <state x="649" y="253" key="run.anything.popup/51.27.1869.1053@51.27.1869.1053" timestamp="1599761008297" />
+    <state x="648" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1599747977760">
+      <screen x="51" y="27" width="1869" height="1053" />
+    </state>
+    <state x="648" y="257" width="672" height="678" key="search.everywhere.popup/51.27.1869.1053@51.27.1869.1053" timestamp="1599747977760" />
   </component>
 </project>
